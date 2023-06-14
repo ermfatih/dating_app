@@ -1,0 +1,9 @@
+{
+  "discover": {
+    "discover": "يكتشف",
+    "peopleNearby": "الناس في مكان قريب",
+    "msg_named":"{} مرحبا عينة {lang}"
+  }, "project":{
+    "name": "ترحيب التطبيق التاريخ"
+  }
+}

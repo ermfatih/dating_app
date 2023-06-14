@@ -1,0 +1,10 @@
+{
+  "discover": {
+    "discover": "Discover",
+    "peopleNearby": "People Nearby",
+    "msg_named":"{} hello sample {lang}"
+  },
+  "project":{
+    "name": "welcome date app"
+  }
+}
